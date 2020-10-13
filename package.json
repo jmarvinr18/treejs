@@ -1,5 +1,5 @@
 {
-  "name": "@jmarvinr/treejs",
+  "name": "@jmarvinr/tree-caba",
   "version": "1.8.3",
   "description": "a lightweight tree widget, compatible with originaljs/react/vue, 9.6kb size for tree.min.js&tree.min.css without gzip.",
   "main": "index.js",
